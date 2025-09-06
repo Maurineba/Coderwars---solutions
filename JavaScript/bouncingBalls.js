@@ -5,7 +5,7 @@ function verificarRequisitos(height,  bounce,  window) {
 }
 
 function bouncingBall(h,  bounce,  window) {
-   let count = 1;
+  let count = 1;
   
   if(verificarRequisitos(h, bounce, window)) {
      return -1; 
