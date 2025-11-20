@@ -1,3 +1,4 @@
+OBS: semestre muito corrido, vou arranjar um tempo para mandar as novas soluçoes e organizar o repositorio depois. Abraços
 # 💻 CodeWars - Minhas Soluções
 
 Aqui estão minhas soluções de desafios resolvidos no [CodeWars](https://www.codewars.com/). Conforme eu for fazendo mais, irei adicionando e organizando melhor por linguagem ou dificuldade.
